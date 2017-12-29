@@ -1,0 +1,10 @@
+c:\users\tamriel\documents\visual studio 2015\Projects\Mac Address Identifier\Mac Address Identifier\bin\Debug\Mac Address Identifier.exe.config
+c:\users\tamriel\documents\visual studio 2015\Projects\Mac Address Identifier\Mac Address Identifier\bin\Debug\Mac Address Identifier.exe
+c:\users\tamriel\documents\visual studio 2015\Projects\Mac Address Identifier\Mac Address Identifier\bin\Debug\Mac Address Identifier.pdb
+c:\users\tamriel\documents\visual studio 2015\Projects\Mac Address Identifier\Mac Address Identifier\bin\Debug\Mac Address Identifier.xml
+c:\users\tamriel\documents\visual studio 2015\Projects\Mac Address Identifier\Mac Address Identifier\obj\Debug\Mac_Address_Identifier.Form1.resources
+c:\users\tamriel\documents\visual studio 2015\Projects\Mac Address Identifier\Mac Address Identifier\obj\Debug\Mac_Address_Identifier.Resources.resources
+c:\users\tamriel\documents\visual studio 2015\Projects\Mac Address Identifier\Mac Address Identifier\obj\Debug\Mac Address Identifier.vbproj.GenerateResource.Cache
+c:\users\tamriel\documents\visual studio 2015\Projects\Mac Address Identifier\Mac Address Identifier\obj\Debug\Mac Address Identifier.exe
+c:\users\tamriel\documents\visual studio 2015\Projects\Mac Address Identifier\Mac Address Identifier\obj\Debug\Mac Address Identifier.xml
+c:\users\tamriel\documents\visual studio 2015\Projects\Mac Address Identifier\Mac Address Identifier\obj\Debug\Mac Address Identifier.pdb
